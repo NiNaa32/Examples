@@ -1,0 +1,15 @@
+C:\Examples\5.9\Intro1\bin\Debug\net6.0\Intro1.exe
+C:\Examples\5.9\Intro1\bin\Debug\net6.0\Intro1.deps.json
+C:\Examples\5.9\Intro1\bin\Debug\net6.0\Intro1.runtimeconfig.json
+C:\Examples\5.9\Intro1\bin\Debug\net6.0\Intro1.dll
+C:\Examples\5.9\Intro1\bin\Debug\net6.0\Intro1.pdb
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\Intro1.csproj.AssemblyReference.cache
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\Intro1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\Intro1.AssemblyInfoInputs.cache
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\Intro1.AssemblyInfo.cs
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\Intro1.csproj.CoreCompileInputs.cache
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\Intro1.dll
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\refint\Intro1.dll
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\Intro1.pdb
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\Intro1.genruntimeconfig.cache
+C:\Examples\5.9\Intro1\obj\Debug\net6.0\ref\Intro1.dll
